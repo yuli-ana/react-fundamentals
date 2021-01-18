@@ -4,10 +4,9 @@
 <body>
   <div id="root"></div>
 
-  <!-- 💣 remove this line
   <script src="https://unpkg.com/react@17.0.0/umd/react.development.js"></script>
   <script src="https://unpkg.com/react-dom@17.0.0/umd/react-dom.development.js"></script>
-  💣 remove this line -->
+
 
   <script type="module">
     const rootElement = document.getElementById('root')
@@ -24,5 +23,11 @@
     // 🐨 Please re-implement the regular document.createElement code above
     // with these React API calls
     // 💰 The example in the markdown file should be a good hint for you.
+
+    const elementProps = { id: "element-id", children: "Hello world" };
+    const elementType = "h1";
+    const reactElement = React.createElement(elementType, elementProps);
+    ReactDOM.render(reactElement, rootElement);
+
   </script>
 </body>
