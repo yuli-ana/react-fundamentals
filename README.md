@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"><a href="https://epicreact.dev">React Fundamentals 🚀 EpicReact.Dev</a></h1>
+  <h1 align="center"><a href="https://epicreact.dev/fundamentals">React Fundamentals 🚀 EpicReact.Dev</a></h1>
   <strong>
     Learn the foundational concepts necessary for building
     React applications and libraries
@@ -149,7 +149,7 @@ emoji characters are here to help you.
 
 - **Kody the Koala** 🐨 will tell you when there's something specific you should
   do
-- **Matthew the Muscle** 💪 will indicate what you're working with an exercise
+- **Matthew the Muscle** 💪 will indicate that you're working with an exercise
 - **Chuck the Checkered Flag** 🏁 will indicate that you're working with a final
   version
 - **Marty the Money Bag** 💰 will give you specific tips (and sometimes code)
@@ -223,6 +223,8 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://tonidezman.github.io/"><img src="https://avatars0.githubusercontent.com/u/11177270?v=4" width="100px;" alt=""/><br /><sub><b>Toni Dezman</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=tonidezman" title="Code">💻</a></td>
     <td align="center"><a href="http://bobbywarner.com"><img src="https://avatars0.githubusercontent.com/u/554961?v=4" width="100px;" alt=""/><br /><sub><b>Bobby Warner</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=bobbywarner" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/PunkSage"><img src="https://avatars2.githubusercontent.com/u/1321225?v=4" width="100px;" alt=""/><br /><sub><b>Konrad Szałwiński</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=PunkSage" title="Code">💻</a></td>
+    <td align="center"><a href="https://au.linkedin.com/pub/yaseen-kadir/102/99a/49a"><img src="https://avatars1.githubusercontent.com/u/8746946?v=4" width="100px;" alt=""/><br /><sub><b>Yaseen Kadir</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/issues?q=author%3Ayaseenkadir" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://viglucci.io"><img src="https://avatars0.githubusercontent.com/u/6305490?v=4" width="100px;" alt=""/><br /><sub><b>Kevin Viglucci</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=viglucci" title="Documentation">📖</a></td>
   </tr>
 </table>
 
